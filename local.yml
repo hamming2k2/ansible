@@ -1,5 +1,5 @@
 ---
   - hosts:
-      - localhost
+      - host02
     tasks:
       - action: ping
