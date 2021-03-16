@@ -1,0 +1,12 @@
+[all]
+server02
+server03
+
+[host02]
+server02
+
+[host03]
+server03
+
+[localhost]
+server01
