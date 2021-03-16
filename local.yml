@@ -1,5 +1,5 @@
 ---
   - hosts:
-      - host02
+      - all
     tasks:
       - action: ping
